@@ -15,7 +15,7 @@
       </v-toolbar-title>
 
       <v-spacer />
-      <v-btn href="/About" icon>
+      <v-btn icon>
         <v-icon>mdi-account-circle</v-icon>
       </v-btn>
       <v-btn icon>
