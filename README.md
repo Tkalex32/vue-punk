@@ -1,19 +1,8 @@
-# vue-punk
+# proba-feladat
+Céges felvételi feladat
 
-## Project setup
-```
-npm install
-```
+## Backend:
+Write an application with Vue.js & Vuetify with which you can explore beers from the Punk API. You should be able to search and filter the beers. https://punkapi.com/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Live Site URL: [Live Site](https://vue-punk.netlify.app/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
